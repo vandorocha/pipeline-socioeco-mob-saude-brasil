@@ -1,0 +1,9 @@
+Iniciando projeto:
+
+	Criando ambiente virtual >  python -m venv .venv
+
+	Ativando ambiente virtual >  .venv\Scripts\Activate.ps1
+
+	Atualizando o pip dentro do ambiente virtual > python -m pip install --upgrade pip
+
+	Instalando dependências > pip install requests pandas sqlalchemy psycopg2-binary python-dotenv
